@@ -1,4 +1,4 @@
-<h1>PG5_Finanace</h1>
+<h1>Instant Flex Finance</h1>
 <h4><strong><em>Project Gladiator Group 5 : Finance - EMI virtual card management</em></strong><h/4>
 <hr>
 <p align="justify" >Small scale finance application to provide customers with virtual credit card, where they can use it as a payment mode.</p>
@@ -7,10 +7,8 @@
 <h3><hr></h3>
 
 Team:<ul>
-  <li> Monish K </li>
-  <li> Pranav Jagtap</li>
-  <li> Omkar Sawant </li>
-  <li> Sandeep Ananthula </li>
+  <li> Sakshi BOLE</li>
+  
 </ul>
 
 Requirements to run and test the project
